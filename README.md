@@ -10,7 +10,7 @@
 - Lexend, Medium, sans-serif
 - Lexend Zetta, bold, sans-serif
 
-### Available:
+#### Available:
 
 - [Lexend (Google Fonts)](https://fonts.google.com/specimen/Lexend)
 - [Lexend Zetta (Google Fonts)](https://fonts.google.com/specimen/Lexend+Zetta)
